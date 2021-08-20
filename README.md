@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="https://media.discordapp.net/attachments/866381387145281536/867863122005852180/Pixel-Art-Of-Motocross-Saito13.png" alt="denizwp"/>
+     <img src="https://cdn.discordapp.com/attachments/858317230600224838/878382953636442152/shrp2surad.png" alt="denizwp"/>
 </div>
 
 <div align="center">

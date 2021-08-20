@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+     <img src="https://arkadaslik.is-pretty.cool/4yRKwPJ.png" alt="denizwp"/>
+</div>
 
-<!--
-**denizwp/denizwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://count.getloli.com/get/@:aw3rque?theme=rule34" alt=":denizwp" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <a href="https://instagram.com/efelsoe" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+       <a href="https://open.spotify.com/user/3nwgygqzwengb9a6x5qyb9yn5" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+       <a href="https://steamcommunity.com/id/efewiped" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
+</p>
+    <div align="center">
+   <a href="https://discord.com/users/280696584889696257" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/280696584889696257">
+   </a>
+</div>

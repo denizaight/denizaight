@@ -1,5 +1,5 @@
 <div align="center">
-     <img src="https://arkadaslik.is-pretty.cool/4yRKwPJ.png" alt="denizwp"/>
+     <img src="https://media.discordapp.net/attachments/866381387145281536/867863122005852180/Pixel-Art-Of-Motocross-Saito13.gif" alt="denizwp"/>
 </div>
 
 <div align="center">

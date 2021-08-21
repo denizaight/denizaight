@@ -9,7 +9,7 @@
 </p>
     <div align="center">
    <a href="https://discord.com/users/773141540944084994" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/773141540944084994?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px">
+      <img src="https://lanyard-profile-readme.vercel.app/api/773141540944084994?theme=black&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px">
    </a>
 </div>
 

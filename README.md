@@ -9,10 +9,6 @@
      <a href="https://shrp.tebex.io" target"blank_"><img src="https://img.shields.io/badge/-TEBEX-orange?style=for-the-badge&logo=amazon"></a>
      </a></a>
 </p>
-<p align="center">
-     <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>SHRP Category <br>
-       <a href="https://shrp.tebex.io" target"blank_"><img src="https://img.shields.io/badge/-TEBEX-orange?style=for-the-badge&logo=amazon"></a>
-</p>
     <div align="center">
    <a href="https://discord.com/users/773141540944084994" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/773141540944084994">

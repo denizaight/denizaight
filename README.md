@@ -5,7 +5,9 @@
 <p align="center">
     <a href="https://instagram.com/denizwwp" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://open.spotify.com/user/szviltwriiiu23qzw5uriwtw7?si=df36908f2bb74f67" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-       <a href="https://steamcommunity.com/id/denizwp" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white"></a></a>
+       <a href="https://steamcommunity.com/id/denizwp" target"blank_"><img src="https://img.shields.io/badge/Steam%20-111111.svg?&style=for-the-badge&logo=steam&logoColor=white">
+     <a href="https://shrp.tebex.io" target"blank_"><img src="https://img.shields.io/badge/-TEBEX-orange?style=for-the-badge&logo=amazon"></a>
+     </a></a>
 </p>
 <p align="center">
      <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>SHRP Category <br>

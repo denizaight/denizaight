@@ -15,7 +15,7 @@
    </a>
 </div>
     <div align="center">
-   <a href="https://discord.com/users/773141540944084994" target="_blank">
+   <a href="" target="_blank">
       <img src="https://open.spotify.com/embed/playlist/38iVSNCPOZs9ZPTvKxDycO?utm_source=generator" width="60%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
    </a>
 </div>

@@ -14,9 +14,4 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/773141540944084994">
    </a>
 </div>
-    <div align="center">
-       </a>
-      <img src="https://open.spotify.com/embed/playlist/38iVSNCPOZs9ZPTvKxDycO?utm_source=generator" width="60%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-   </a>
-</div>
 

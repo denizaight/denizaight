@@ -15,7 +15,3 @@
    </a>
 </div>
 
-<p align="center">
-    </a> <iframe src="https://open.spotify.com/embed/playlist/38iVSNCPOZs9ZPTvKxDycO?utm_source=generator" width="60%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-</a>
-

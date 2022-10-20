@@ -1,6 +1,6 @@
 <div align="center">
         <a href="https://discord.gg/NP5hu2Xzyq" target="_blank">
-     <img src="https://cdn.discordapp.com/attachments/1011360479064633504/1012293398251712603/github4.png" alt="denizwp"/>
+     <img src="https://cdn.discordapp.com/attachments/1030503732489752757/1032698443715575819/github5.png" alt="denizwp"/>
 </div>
 </p>
     <div align="center">

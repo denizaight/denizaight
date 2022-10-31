@@ -1,4 +1,4 @@
-<h2> Salut, moi c'est Ben. <img src="https://github.com/heckair/heckair/blob/main/duck.gif?raw=true" width="30"></h2>
+<h2> Hello, I'm denizwp <img src="https://github.com/heckair/heckair/blob/main/duck.gif?raw=true" width="30"></h2>
 <img align='right' src="https://cdn.discordapp.com/attachments/993886185325875340/1031145334132449380/floppahecker-modified.png" width="230">
 <p><em>Je suis actuellement au <b>Lycée</b> </a><img src="https://github.com/heckair/heckair/blob/main/book.png?raw=true" width="25"></br>CEO et Développeur de <a href="https://ofsl.space">Ofsl™</a><img src="https://cdn.discordapp.com/attachments/993886185325875340/1031144978824577064/1000x1000.png" width="25"> 
 </em></p>

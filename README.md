@@ -1,4 +1,4 @@
-### Hey, I'm Phin 👋
+### Hey, I'm Deniz 👋
 
 I'm a 15 year old developer and student.
 

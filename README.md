@@ -17,3 +17,5 @@ To contact me quickly and easily, [DM me on Discord](https://discord.com/users/7
 If it makes more sense, you can also email me:
 
 **Mail:** denizwp01@gmail.com
+
+credit: [Phineas](https://github.com/Phineas/)

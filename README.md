@@ -9,6 +9,7 @@ I'm currently working on [Ringloria](https://discord.gg/s65AQM9f5z) - Ringloria 
 ## ⚡️ Experience
 
 I'm not full-stack. I'm still learning a lot of things and I don't have many references.
+![Profile Views](https://komarev.com/ghpvc/?username=denizwp)
 
 ## 📫 Contact
 

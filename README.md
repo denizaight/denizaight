@@ -2,6 +2,8 @@
 
 I'm a 15 year old developer and student.
 
+![Profile Views](https://komarev.com/ghpvc/?username=denizwp)
+
 ## 🔭 Current
 
 I'm currently working on [Ringloria](https://discord.gg/s65AQM9f5z) - Ringloria is a 2D online & story game. Developed by community developers and supported by the community.
@@ -9,7 +11,6 @@ I'm currently working on [Ringloria](https://discord.gg/s65AQM9f5z) - Ringloria 
 ## ⚡️ Experience
 
 I'm not full-stack. I'm still learning a lot of things and I don't have many references.
-![Profile Views](https://komarev.com/ghpvc/?username=denizwp)
 
 ## 📫 Contact
 

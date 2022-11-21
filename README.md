@@ -1,6 +1,6 @@
 ### Hey, I'm Deniz 👋
 
-I'm a 15 year old developer and student.
+I'm a developer and student.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denizwp)
 

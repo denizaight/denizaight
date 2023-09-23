@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/916348412801212476/1107420191261986966/green_denizwp.png">
+<img src="https://cdn.discordapp.com/attachments/1155193263230308413/1155193297556480033/denizaight_green.png">
 <br><br>
 <img src="https://img.shields.io/badge/Website-deniz.cloud-darkgreen">
 <img src="https://img.shields.io/badge/OS-Windows-darkgreen">

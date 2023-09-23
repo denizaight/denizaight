@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/916348412801212476/1107420191261986966/green_denizwp.png">
 <br><br>
-<img src="https://img.shields.io/badge/Website-deniz.cloud-darkgreen" href="https://deniz.cloud">
+<img src="https://img.shields.io/badge/Website-deniz.cloud-darkgreen">
 <img src="https://img.shields.io/badge/OS-Windows-darkgreen">
 <img src="https://img.shields.io/badge/Browser-Brave-darkgreen">
 <img src="https://komarev.com/ghpvc/?username=denizwp&color=0e680f">

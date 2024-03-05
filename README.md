@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1093294069981118546/1181268650850795642/denizistaken_green.png?ex=65807129&is=656dfc29&hm=68c9207e3d69c8cf7faee561f70ead152bbdc63ae269833183da8781b5634966&">
+<img src="https://cdn.discordapp.com/attachments/1093294069981118546/1181268650850795642/denizistaken_green.png?ex=65f869a9&is=65e5f4a9&hm=589de084a8e2787accf25cd2a863c6aca05178cc61c1b0676605af606fefab2e&">
 <br><br>
 <img src="https://img.shields.io/badge/Website-deniz.cloud-darkgreen">
 <img src="https://img.shields.io/badge/OS-Windows-darkgreen">
